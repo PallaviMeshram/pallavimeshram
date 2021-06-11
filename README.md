@@ -3,7 +3,7 @@
 <br>
 
 - 🔭 I’m currently working on my skills 
-- 🌱 I’m currently learning about open source 
+- 🌱 I’m currently learning about new technologies
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PallaviMeshram)  
