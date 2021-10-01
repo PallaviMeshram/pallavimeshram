@@ -6,8 +6,15 @@
 - 🌱 I’m currently learning about new technologies
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PallaviMeshram)  
+###Languages Known
+-C++
+-Python
+-HTML/CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviMeshram)](https://github.com/anuraghazra/github-readme-stats)
+###Technologies Know
+-Blockchain
+-Web Development
+-Blender(3D Animation or Object creation for Game Development)
+-Adobe XD
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PallaviMeshram&show_icons=true)  
