@@ -17,4 +17,5 @@
 - ✅Blender(3D Animation or Object creation for Game Development)
 - ✅Adobe XD
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PallaviMeshram&show_icons=true)  
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviMeshram&langs_count=5&theme=tokyonight)]()
+
