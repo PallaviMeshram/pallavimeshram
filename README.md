@@ -1,5 +1,5 @@
 ### Hi there it's me Pallavi Meshram 👋
-#### I am student at Government College of Engineering Amravati
+#### I am student at Government College of Engineering, Amravati (GCOEA).
 <br>
 
 - 🔭 I’m currently working on my skills 
