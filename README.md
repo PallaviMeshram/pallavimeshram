@@ -18,8 +18,7 @@
 - ✅Adobe XD
 
 ### My Profiles
-- [![Badge](https://cp-logo.vercel.app/codeforces/palli)]
-(https://www.codechef.com/users/gennady.korotkevich)
+- [![Badge](https://cp-logo.vercel.app/codeforces/palli)](https://codeforces.com/profile/Palli)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviMeshram&langs_count=5&theme=tokyonight)]()
 
