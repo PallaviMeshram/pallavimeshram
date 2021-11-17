@@ -18,8 +18,11 @@
 - ✅Adobe XD
 
 ### My CP Profiles
-- [![Badge](https://cp-logo.vercel.app/codeforces/palli)](https://codeforces.com/profile/Palli)
+
 - [![Badge](https://cp-logo.vercel.app/codechef/pauv)](https://www.codechef.com/users/pauv)
+- [![Badge](https://cp-logo.vercel.app/codeforces/palli)](https://codeforces.com/profile/Palli)
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviMeshram&langs_count=5&theme=tokyonight)]()
