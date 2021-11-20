@@ -21,10 +21,7 @@
 - ✅Blender(3D Animation or Object creation for Game Development)
 - ✅Adobe XD
 
-![](https://github.com/PallaviMeshram/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/PallaviMeshram/github-stats/blob/master/generated/languages.svg)
-
-
-
 [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavimeshram)
 [![Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/9984017/pallavi-meshram)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviMeshram&layout=compact)]()
