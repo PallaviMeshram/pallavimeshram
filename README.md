@@ -11,12 +11,12 @@
 
 ### Languages Known
 - ✅C++
-- ✅Python
-- ✅HTML/CSS
+- ✅Javascript
+- ✅MySQL
 
 ### Technologies Know
 - ✅Blockchain
-- ✅Web Development
+<!-- - ✅Web Development -->
 - ✅Blender(3D Animation or Object creation for Game Development)
 - ✅Adobe XD
 
