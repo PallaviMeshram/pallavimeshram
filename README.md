@@ -16,11 +16,10 @@
 
 ### Technologies Know
 - ✅Blockchain
-<!-- - ✅Web Development -->
 - ✅Blender(3D Animation or Object creation for Game Development)
 - ✅Adobe XD
-<br/>
+<!-- - ✅Web Development -->
 [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavimeshram)
 [![Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/9984017/pallavi-meshram)
-<br/><br/>
+<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pallavimeshram&theme=default)]()
