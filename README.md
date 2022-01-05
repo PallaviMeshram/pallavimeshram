@@ -22,4 +22,4 @@
 [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavimeshram)
 [![Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/9984017/pallavi-meshram)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pallavimeshram&theme=default)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pallavimeshram&theme=default)](https://github.com/PallaviMeshram)
