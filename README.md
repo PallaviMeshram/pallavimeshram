@@ -7,7 +7,7 @@
 ### My CP Profiles
 
 - [![Badge](https://cp-logo.vercel.app/codechef/pauv)](https://www.codechef.com/users/pauv)
-- [![Badge](https://cp-logo.vercel.app/codeforces/palli)](https://codeforces.com/profile/Palli)
+- [![Badge](https://cp-logo.vercel.app/leetcode/pauvpam)](https://leetcode.com/pauvpam/)
 
 ### Languages Known
 - ✅C++
