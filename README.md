@@ -1,5 +1,5 @@
 ### Hi there it's me Pallavi Meshram 👋
-#### I am student at Government College of Engineering, Amravati (GCOEA).
+#### I currently working at Fresh Gravity as an Intern, and also pursuing my B.Tech(8th Sem) from Government College of Engineering, Amravati (GCOEA).
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviMeshram&layout=compact)]()
@@ -15,6 +15,7 @@
 - ✅MySQL
 
 ### Technologies Know
+- ✅Data Science (In Progress)
 - ✅Blockchain
 - ✅Blender(3D Animation or Object creation for Game Development)
 - ✅Adobe XD
