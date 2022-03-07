@@ -17,7 +17,6 @@
 ### Technologies Know
 - ✅Data Science (In Progress)
 - ✅Blockchain
-- ✅Blender(3D Animation or Object creation for Game Development)
 - ✅Adobe XD
 <!-- - ✅Web Development -->
 [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavimeshram)
