@@ -11,4 +11,4 @@
 - [LinkedIn](https://www.linkedin.com/in/pallavimeshram)
 - [Email](mailto:pallaviameshram2022@gmail.com)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pallavimeshram&date_format=j%20M%5B%20Y%5D")](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pallavimeshram&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
