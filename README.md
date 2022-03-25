@@ -1,15 +1,14 @@
-### Hi there it's me Pallavi Meshram 👋
-#### I currently working at Fresh Gravity as an Intern, and also pursuing my B.Tech(8th Sem) from Government College of Engineering, Amravati (GCOEA).
+### Hi, I am Pallavi Meshram 👋
+#### I am currently working at Fresh Gravity as an Intern, and also pursuing my B.Tech(8th Sem) from Government College of Engineering, Amravati (GCOEA).
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviMeshram&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviMeshram&layout=compact&align="left")]()
 
-### My CP Profiles
+### Connect with me!
 
-- [![Badge](https://cp-logo.vercel.app/codechef/pauv)](https://www.codechef.com/users/pauv)
-- [![Badge](https://cp-logo.vercel.app/leetcode/pauvpam)](https://leetcode.com/pauvpam/)
+- [CodeChef](https://www.codechef.com/users/pauv)
+- [LeetCode](https://leetcode.com/pauvpam/)
+- [LinkedIn](https://www.linkedin.com/in/pallavimeshram)
+- [Email](mailto:pallaviameshram2022@gmail.com)
 
-[![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavimeshram)
-[![Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/9984017/pallavi-meshram)
-<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pallavimeshram&theme=default)](https://github.com/PallaviMeshram)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pallavimeshram&date_format=j%20M%5B%20Y%5D")](https://git.io/streak-stats)
