@@ -7,8 +7,9 @@
 ### Connect with me!
 
 - [CodeChef](https://www.codechef.com/users/pauv)
+- [CodeForces](https://codeforces.com/profile/Palli)
 - [LeetCode](https://leetcode.com/pauvpam/)
 - [LinkedIn](https://www.linkedin.com/in/pallavimeshram)
-- [Email](mailto:pallaviameshram2022@gmail.com)
+- [Email](mailto:pmeshram.it@gmail.com)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pallavimeshram&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
