@@ -7,6 +7,7 @@
 ### Connect with me!
 
 - [LeetCode](https://leetcode.com/pauvpam/)
+- [Interview](https://www.interviewbit.com/profile/pallavi-meshram/)
 - [LinkedIn](https://www.linkedin.com/in/pallavimeshram)
 - [Email](mailto:pmeshram.it@gmail.com)
 
