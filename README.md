@@ -7,8 +7,6 @@
 ### Connect with me!
 
 - [LeetCode](https://leetcode.com/pauvpam/)
-- [CodeChef](https://www.codechef.com/users/pauv)
-- [CodeForces](https://codeforces.com/profile/Palli)
 - [LinkedIn](https://www.linkedin.com/in/pallavimeshram)
 - [Email](mailto:pmeshram.it@gmail.com)
 
